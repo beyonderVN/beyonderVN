@@ -2,7 +2,7 @@
 
 ### About
 I'm 18 years old Self-taught Front-end developer from Vietnam.
-
+---
 ### - Languages and Tools...
 
 <p align="center">
