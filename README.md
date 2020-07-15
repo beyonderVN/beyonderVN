@@ -1,10 +1,11 @@
-### <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" ><br/>
+# Hoang long
+
 ### About
 I'm 18 years old Self-taught Front-end developer from Vietnam.
-<br/>
+
 
 ---
-### - Languages and Tools...
+### Languages and Tools...
 
 <p>
   <a href="http://avaloniaui.net/">
@@ -23,6 +24,20 @@ I'm 18 years old Self-taught Front-end developer from Vietnam.
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
   </a>
 
+  <a href="https://github.com/dotnet/wpf">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/xamarin/Xamarin.Forms">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/xamarin/xamarin-macios">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
+  </a>  
+
+
+</p>
 
 ---
 ### Thank You  
