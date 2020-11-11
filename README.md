@@ -1,43 +1,41 @@
-# Hoang long
+![britney.gif](https://raw.githubusercontent.com/siddharthkp/siddharthkp/main/britney.gif)
 
-### About
-I'm 18 years old Self-taught Front-end developer from Vietnam.
+&nbsp;
 
+Hi, I'm Sid 👋
 
----
-### Languages and Tools...
+Thinking about components and ways of making them
 
-<p>
-  <a href="http://avaloniaui.net/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
-  </a>
+&nbsp;
 
- <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
-  </a>
+**Open source projects:**
 
-  <a href="https://github.com/apple/swift">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
-  </a>
+[UI Devtools for Tailwind CSS](https://ui-devtools.com) - The missing browser devtools for Tailwind CSS
 
-  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
-  </a>
+[React UI](https://react-ui.dev) - Customisable components and primitives based on design tokens
 
-  <a href="https://github.com/dotnet/wpf">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
-  </a>
+[Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 
-  <a href="https://github.com/xamarin/Xamarin.Forms">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
-  </a>
+Curating [tinyreact.email](https:///tinyreact.email)
 
-  <a href="https://github.com/xamarin/xamarin-macios">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
-  </a>  
+&nbsp;
 
+**About Me:**
 
-</p>
-
----
-### Thank You  
+<ul>
+<li>
+  <div>Developer at <a href="https://codesandbox.io">CodeSandbox</a></div>
+  <small>past: design systems at <a href="https://auth0.com">Auth0</a>, frontend architect at <a href="https://practo.com">Practo</a></small>
+</li>
+<br/>
+<li>
+  <div>Built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://tinyreact.email">tinyreact.email</a></small> and <a href="https://github.com/siddharthkp">more</a></div>
+  <div><small>24M downloads on npm · 10.5K stars on GitHub</div>
+</li>
+<br/>
+<li>
+  <div>I give talks about React and Design Systems</div>
+  <small><a href="https://sid.st/talks/">watch past talks<a/></small>
+</li>
+<br/>
+</ul>
